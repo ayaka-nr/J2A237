@@ -1,0 +1,19 @@
+@charset "UTF-8";
+*{
+    box-sizing: border-box;
+    font-family: メイリオ;
+    margin: 0;
+}
+body{
+    background: #f8d8df;
+    margin: 0;
+    padding: 0;
+}
+article{
+    position: relative;
+}
+header{
+    position: absolute;
+    top: 40px;
+    left: 0;
+}
