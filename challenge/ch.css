@@ -23,6 +23,9 @@ header {
     background: #f83;
     color: #fff;
     padding: 10px;
+    position: absolute;
+    top: 40px;
+    left: 0;
 }
 section{
     padding: 20px;
